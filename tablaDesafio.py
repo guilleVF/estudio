@@ -1,3 +1,5 @@
+#Agregamos un pequeño comentario
+
 import sqlite3
 
 #Creamos y nos conectamos a la base de datos
